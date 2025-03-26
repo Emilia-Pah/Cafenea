@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cafenea", "Cafenea\Cafenea.csproj", "{99ECE6FC-4400-41B0-A1A8-58171EDCFA52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarieModele", "LibrarieModele\LibrarieModele.csproj", "{810B39EE-D9BE-4C9F-BD5F-AE97F2D8AC4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99ECE6FC-4400-41B0-A1A8-58171EDCFA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99ECE6FC-4400-41B0-A1A8-58171EDCFA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99ECE6FC-4400-41B0-A1A8-58171EDCFA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99ECE6FC-4400-41B0-A1A8-58171EDCFA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{810B39EE-D9BE-4C9F-BD5F-AE97F2D8AC4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{810B39EE-D9BE-4C9F-BD5F-AE97F2D8AC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{810B39EE-D9BE-4C9F-BD5F-AE97F2D8AC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{810B39EE-D9BE-4C9F-BD5F-AE97F2D8AC4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86090789-4DD9-4209-968F-25452CC0C871}
+	EndGlobalSection
+EndGlobal
